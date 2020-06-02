@@ -30,7 +30,7 @@
 
 ## 💻 Sobre o projeto
 
-♻️Ecoleta - é umma forma de conectar empresas e entidades de coleta de resíduos orgânicos e inorgânicos as pessoas que precisam descartar seus resíduos de maneira ecológica.
+♻️Ecoleta - é uma forma de conectar empresas e entidades de coleta de resíduos orgânicos e inorgânicos as pessoas que precisam descartar seus resíduos de maneira ecológica.
 
 As empresas ou entidades poderão se cadastrar na plataforma web enviando:
 - uma imagem do ponto de coleta
@@ -69,23 +69,12 @@ O layout da aplicação está disponível no Figma:
   <img alt="NextLevelWeek" title="#NextLevelWeek" src="./github-assets/detalhes-mobile.svg" width="200px">
 </p>
 
-<p align="center">
-  
-</p>
-
-
 ### Web
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-  <img alt="NextLevelWeek" title="#NextLevelWeek" src="./github-assets/home-web.svg" width="300px">
+  <img alt="NextLevelWeek" title="#NextLevelWeek" src="./github-assets/web.svg" width="400px">
 
-  <img alt="NextLevelWeek" title="#NextLevelWeek" src="./github-assets/cadastro-web.svg" width="200px">
-
-  <img alt="NextLevelWeek" title="#NextLevelWeek" src="./github-assets/sucesso-web.svg" width="300px">
-</p>
-
-<p align="center">
-  
+  <img alt="NextLevelWeek" title="#NextLevelWeek" src="./github-assets/sucesso-web.svg" width="400px">
 </p>
 
 ## 🛠 Tecnologias
